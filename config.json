@@ -1,0 +1,8 @@
+{
+    "serveurprincipal": "id du serv principal",
+    "serveurlogs": "id du serv logs",
+    "rolestaffsurleservprincipal": "id du role staff sur le serv principal",
+    "rolestaffsurleservlogs": "id du role staff sur le serv logs",
+    "token": "token du bot"
+  }
+  
